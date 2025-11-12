@@ -1,8 +1,5 @@
 # RL_HW2
 This is the repository for RoboticsLab HW2
-# IIWA Robot Manipulator - ROS 2 Control Package
-
-ROS 2 Humble package for controlling the KUKA IIWA robot manipulator with KDL-based control, vision-based servoing, and ArUco marker detection in Gazebo simulation.
 
 ## 🔨 Installation
 
