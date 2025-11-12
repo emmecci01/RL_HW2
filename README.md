@@ -1,5 +1,6 @@
 # RL_HW2
-This is the repository for RoboticsLab HW2
+This is the repository for RoboticsLab HW2.
+Link to the playlist containing our demo videos on Youtube: https://youtube.com/playlist?list=PLIDEFmFRzNxw_BD0JExKTiWNJHv8fP9Y-&si=2RBgrXMr6wNZAfuf
 
 ## 🔨 Installation
 
